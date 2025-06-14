@@ -1,4 +1,4 @@
-<h1 align="center">Cześć, jestem [Twoje Imię] 👋</h1>
+<h1 align="center">Cześć, jestem Mateusz 👋</h1>
 
 <p align="center">Jestem programistą Java z pasją do czystego kodu, architektury opartej o dobre praktyki oraz rozwoju open-source.</p>
 
@@ -38,8 +38,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TwojaNazwaGitHub&show_icons=true&theme=radical&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwojaNazwaGitHub&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=c0sta&show_icons=true&theme=radical&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0sta&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
